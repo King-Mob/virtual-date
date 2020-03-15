@@ -1,0 +1,33 @@
+    a{
+        position: absolute;
+        z-index: 2;
+        background-color: hsla(0,100%,100%,0.7);
+        padding: 10px;
+    }
+    
+    a:hover{
+        position: absolute;
+        z-index: 2;
+        background-color: hsla(0,100%,100%,0.4);
+        padding: 10px;
+    }
+    
+    p{
+        font-family: monospace;
+    }
+    
+    h3{
+        font-family: monospace;
+    }
+    
+    img{
+        position: absolute;
+        z-index: 1;
+        height: 100%;
+        width: auto;
+    }
+    
+    iframe{
+        position: absolute;
+        z-index: 0;
+    }
